@@ -1,0 +1,6 @@
+token:
+  expiration_time: 86400000
+  secret: NATIVEDEVSCHANGEDl604sgyHJ3ycUeR4uUAt7WJraD7EN3yyYuHxMEbSF4XXyYJkal13eqgB0F7Bq4H
+
+gateway:
+  ip: 192.168.0.36

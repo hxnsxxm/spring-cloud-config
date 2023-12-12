@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: Q4NSl604sgyHJj1qwEkR3ycUeR4uUAt7WJraD7EN3O9DVM4yyYuHxMEbSF4XXyYJkal13eqgB0F7Bq4H
+  secret: '{cipher}AQB0Xk5uPAOopDEm9w2bMWd6h/zm4Xm4toDVc2vkoPkOf18Pmw0fxafevBCjFd5x/dzCCeH/aq/lVcxg8wD0lG9lNLoCegFw81XKm9KtfsP/FJaEFjJ9W1RxurflBxEem/4/bVSG4kkI4u0me4Q+vPYwO2PnrKI5wlMR+E0+Ixoi3ltQK7ADvFhbhmKyvQGer2gKMtx4gcLdoANxh2qCIBR1IIuPAC+upOwYdgfy2PaOvYT8tWKAwNEnIjeGpX6yLPiWZSQX0CbxmTuvDbfTk2QFZA/3RGr9NDoMZhHuAjV2L6C3ijJqDy5yS69UHQA2jYW97FdQBAhicNKbjinCPsFRB8quIHwnA4yd/n9HmQylMTfYGlqWSqJsICsb71/xfNqPsGYKBeYuWsBpnTxk7dvQgMjvOUq/HBf1aP60iSQ20eHRuP5FA/S9n0Wilj0CITn94mVMMzC47/tPcQEsRPZrhAkfMeFRoUeLHyP6HmgqrQ=='
 
 gateway:
   ip: 192.168.0.36
