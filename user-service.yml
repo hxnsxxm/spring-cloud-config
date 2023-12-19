@@ -10,7 +10,8 @@ token:
   secret: NATIVEDEVSl604sgyHJj1qwEkR3ycUeR4uUAt7WJraD7EN3yyYuHxMEbSF4XXyYJkal13eqgB0F7Bq4H
 
 gateway:
-  ip: 192.168.0.36
+#  ip: 192.168.0.36
+  ip: 172.18.0.5
 
 order_service:
   url: http://ORDER-SERVICE/order-service/%s/orders
